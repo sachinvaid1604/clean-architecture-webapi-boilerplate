@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Projects\\.Net Core\\Boilerplate\\clean-structured-api-project\\Export\\Project.API\\Project.API.csproj": {}
+    "F:\\Source Code\\BoilerPlate\\CleanArchitectureWebAPI\\clean-architecture-webapi-boilerplate\\Project.API\\Project.API.csproj": {}
   },
   "projects": {
-    "D:\\C# Projects\\.Net Core\\Boilerplate\\clean-structured-api-project\\Export\\Project.API\\Project.API.csproj": {
+    "F:\\Source Code\\BoilerPlate\\CleanArchitectureWebAPI\\clean-architecture-webapi-boilerplate\\Project.API\\Project.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Projects\\.Net Core\\Boilerplate\\clean-structured-api-project\\Export\\Project.API\\Project.API.csproj",
+        "projectUniqueName": "F:\\Source Code\\BoilerPlate\\CleanArchitectureWebAPI\\clean-architecture-webapi-boilerplate\\Project.API\\Project.API.csproj",
         "projectName": "Project.API",
-        "projectPath": "D:\\C# Projects\\.Net Core\\Boilerplate\\clean-structured-api-project\\Export\\Project.API\\Project.API.csproj",
+        "projectPath": "F:\\Source Code\\BoilerPlate\\CleanArchitectureWebAPI\\clean-architecture-webapi-boilerplate\\Project.API\\Project.API.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Projects\\.Net Core\\Boilerplate\\clean-structured-api-project\\Export\\Project.API\\obj\\",
+        "outputPath": "F:\\Source Code\\BoilerPlate\\CleanArchitectureWebAPI\\clean-architecture-webapi-boilerplate\\Project.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\C# Projects\\.Net Core\\Boilerplate\\clean-structured-api-project\\Export\\Project.Core\\Project.Core.csproj": {
-                "projectPath": "D:\\C# Projects\\.Net Core\\Boilerplate\\clean-structured-api-project\\Export\\Project.Core\\Project.Core.csproj"
+              "F:\\Source Code\\BoilerPlate\\CleanArchitectureWebAPI\\clean-architecture-webapi-boilerplate\\Project.Core\\Project.Core.csproj": {
+                "projectPath": "F:\\Source Code\\BoilerPlate\\CleanArchitectureWebAPI\\clean-architecture-webapi-boilerplate\\Project.Core\\Project.Core.csproj"
               },
-              "D:\\C# Projects\\.Net Core\\Boilerplate\\clean-structured-api-project\\Export\\Project.Infrastructure\\Project.Infrastructure.csproj": {
-                "projectPath": "D:\\C# Projects\\.Net Core\\Boilerplate\\clean-structured-api-project\\Export\\Project.Infrastructure\\Project.Infrastructure.csproj"
+              "F:\\Source Code\\BoilerPlate\\CleanArchitectureWebAPI\\clean-architecture-webapi-boilerplate\\Project.Infrastructure\\Project.Infrastructure.csproj": {
+                "projectPath": "F:\\Source Code\\BoilerPlate\\CleanArchitectureWebAPI\\clean-architecture-webapi-boilerplate\\Project.Infrastructure\\Project.Infrastructure.csproj"
               }
             }
           }
@@ -102,14 +102,14 @@
         }
       }
     },
-    "D:\\C# Projects\\.Net Core\\Boilerplate\\clean-structured-api-project\\Export\\Project.Core\\Project.Core.csproj": {
+    "F:\\Source Code\\BoilerPlate\\CleanArchitectureWebAPI\\clean-architecture-webapi-boilerplate\\Project.Core\\Project.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Projects\\.Net Core\\Boilerplate\\clean-structured-api-project\\Export\\Project.Core\\Project.Core.csproj",
+        "projectUniqueName": "F:\\Source Code\\BoilerPlate\\CleanArchitectureWebAPI\\clean-architecture-webapi-boilerplate\\Project.Core\\Project.Core.csproj",
         "projectName": "Project.Core",
-        "projectPath": "D:\\C# Projects\\.Net Core\\Boilerplate\\clean-structured-api-project\\Export\\Project.Core\\Project.Core.csproj",
+        "projectPath": "F:\\Source Code\\BoilerPlate\\CleanArchitectureWebAPI\\clean-architecture-webapi-boilerplate\\Project.Core\\Project.Core.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Projects\\.Net Core\\Boilerplate\\clean-structured-api-project\\Export\\Project.Core\\obj\\",
+        "outputPath": "F:\\Source Code\\BoilerPlate\\CleanArchitectureWebAPI\\clean-architecture-webapi-boilerplate\\Project.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -168,14 +168,14 @@
         }
       }
     },
-    "D:\\C# Projects\\.Net Core\\Boilerplate\\clean-structured-api-project\\Export\\Project.Infrastructure\\Project.Infrastructure.csproj": {
+    "F:\\Source Code\\BoilerPlate\\CleanArchitectureWebAPI\\clean-architecture-webapi-boilerplate\\Project.Infrastructure\\Project.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Projects\\.Net Core\\Boilerplate\\clean-structured-api-project\\Export\\Project.Infrastructure\\Project.Infrastructure.csproj",
+        "projectUniqueName": "F:\\Source Code\\BoilerPlate\\CleanArchitectureWebAPI\\clean-architecture-webapi-boilerplate\\Project.Infrastructure\\Project.Infrastructure.csproj",
         "projectName": "Project.Infrastructure",
-        "projectPath": "D:\\C# Projects\\.Net Core\\Boilerplate\\clean-structured-api-project\\Export\\Project.Infrastructure\\Project.Infrastructure.csproj",
+        "projectPath": "F:\\Source Code\\BoilerPlate\\CleanArchitectureWebAPI\\clean-architecture-webapi-boilerplate\\Project.Infrastructure\\Project.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Projects\\.Net Core\\Boilerplate\\clean-structured-api-project\\Export\\Project.Infrastructure\\obj\\",
+        "outputPath": "F:\\Source Code\\BoilerPlate\\CleanArchitectureWebAPI\\clean-architecture-webapi-boilerplate\\Project.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -197,8 +197,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\C# Projects\\.Net Core\\Boilerplate\\clean-structured-api-project\\Export\\Project.Core\\Project.Core.csproj": {
-                "projectPath": "D:\\C# Projects\\.Net Core\\Boilerplate\\clean-structured-api-project\\Export\\Project.Core\\Project.Core.csproj"
+              "F:\\Source Code\\BoilerPlate\\CleanArchitectureWebAPI\\clean-architecture-webapi-boilerplate\\Project.Core\\Project.Core.csproj": {
+                "projectPath": "F:\\Source Code\\BoilerPlate\\CleanArchitectureWebAPI\\clean-architecture-webapi-boilerplate\\Project.Core\\Project.Core.csproj"
               }
             }
           }

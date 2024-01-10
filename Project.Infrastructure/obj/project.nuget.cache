@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QT9l/YbVFzfV7JFddQ2jupTCbjmyCU6L2Xbns16J6vXWnIlwNU1V2ghCvuVnhuafbt5UNqPOxnTvONiVuOJ6ag==",
+  "dgSpecHash": "v8Qll9V2JQUygUcnmLbaZs/jE9KmX0PhuLTXg3FxyH+TCmOQoPu6rJXh9z/Ga4TyXJJV4n8PL+k5wwtCCe2dSw==",
   "success": true,
-  "projectFilePath": "D:\\C# Projects\\.Net Core\\Boilerplate\\clean-structured-api-project\\Export\\Project.Infrastructure\\Project.Infrastructure.csproj",
+  "projectFilePath": "F:\\Source Code\\BoilerPlate\\CleanArchitectureWebAPI\\clean-architecture-webapi-boilerplate\\Project.Infrastructure\\Project.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
