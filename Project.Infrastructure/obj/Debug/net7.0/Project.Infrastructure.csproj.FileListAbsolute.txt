@@ -34,3 +34,21 @@ D:\C# Projects\.Net Core\Boilerplate\clean-structured-api-project\Export\Project
 D:\C# Projects\.Net Core\Boilerplate\clean-structured-api-project\Export\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.pdb
 D:\C# Projects\.Net Core\Boilerplate\clean-structured-api-project\Export\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.genruntimeconfig.cache
 D:\C# Projects\.Net Core\Boilerplate\clean-structured-api-project\Export\Project.Infrastructure\obj\Debug\net7.0\ref\Project.Infrastructure.dll
+F:\Source Code\BoilerPlate\CleanArchitectureWebAPI\clean-architecture-webapi-boilerplate\Project.Infrastructure\bin\Debug\net7.0\Project.Infrastructure.deps.json
+F:\Source Code\BoilerPlate\CleanArchitectureWebAPI\clean-architecture-webapi-boilerplate\Project.Infrastructure\bin\Debug\net7.0\Project.Infrastructure.runtimeconfig.json
+F:\Source Code\BoilerPlate\CleanArchitectureWebAPI\clean-architecture-webapi-boilerplate\Project.Infrastructure\bin\Debug\net7.0\Project.Infrastructure.dll
+F:\Source Code\BoilerPlate\CleanArchitectureWebAPI\clean-architecture-webapi-boilerplate\Project.Infrastructure\bin\Debug\net7.0\Project.Infrastructure.pdb
+F:\Source Code\BoilerPlate\CleanArchitectureWebAPI\clean-architecture-webapi-boilerplate\Project.Infrastructure\bin\Debug\net7.0\Project.Core.dll
+F:\Source Code\BoilerPlate\CleanArchitectureWebAPI\clean-architecture-webapi-boilerplate\Project.Infrastructure\bin\Debug\net7.0\Project.Core.pdb
+F:\Source Code\BoilerPlate\CleanArchitectureWebAPI\clean-architecture-webapi-boilerplate\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.csproj.AssemblyReference.cache
+F:\Source Code\BoilerPlate\CleanArchitectureWebAPI\clean-architecture-webapi-boilerplate\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source Code\BoilerPlate\CleanArchitectureWebAPI\clean-architecture-webapi-boilerplate\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.AssemblyInfoInputs.cache
+F:\Source Code\BoilerPlate\CleanArchitectureWebAPI\clean-architecture-webapi-boilerplate\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.AssemblyInfo.cs
+F:\Source Code\BoilerPlate\CleanArchitectureWebAPI\clean-architecture-webapi-boilerplate\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Source Code\BoilerPlate\CleanArchitectureWebAPI\clean-architecture-webapi-boilerplate\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.sourcelink.json
+F:\Source Code\BoilerPlate\CleanArchitectureWebAPI\clean-architecture-webapi-boilerplate\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.csproj.CopyComplete
+F:\Source Code\BoilerPlate\CleanArchitectureWebAPI\clean-architecture-webapi-boilerplate\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.dll
+F:\Source Code\BoilerPlate\CleanArchitectureWebAPI\clean-architecture-webapi-boilerplate\Project.Infrastructure\obj\Debug\net7.0\refint\Project.Infrastructure.dll
+F:\Source Code\BoilerPlate\CleanArchitectureWebAPI\clean-architecture-webapi-boilerplate\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.pdb
+F:\Source Code\BoilerPlate\CleanArchitectureWebAPI\clean-architecture-webapi-boilerplate\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.genruntimeconfig.cache
+F:\Source Code\BoilerPlate\CleanArchitectureWebAPI\clean-architecture-webapi-boilerplate\Project.Infrastructure\obj\Debug\net7.0\ref\Project.Infrastructure.dll
