@@ -1,0 +1,8 @@
+
+*.vsidx
+*.cache
+*.cache
+Project.Infrastructure/obj/Debug/net7.0/Project.Infrastructure.csproj.AssemblyReference.cache
+Project.UnitTest/obj/Debug/net7.0/Project.UnitTest.csproj.AssemblyReference.cache
+Project.API/obj/Debug/net7.0/Project.API.csproj.AssemblyReference.cache
+.vs/BoilerPlate.API.Project/v17/.suo
